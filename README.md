@@ -1,5 +1,5 @@
-# Text-Classification-using-LLM-Bert-Model
-This project is on detection of spam,ham and phishing emails using the Bert Model transformer.BERT, which stands for “Bidirectional Encoder Representations from Transformers,” is a state-of-the-art natural language processing (NLP) model developed by Google. BERT is designed to understand the context of a given text by analyzing the relationships between the words in a sentence, rather than just the individual words themselves.
+# Email-Classification-using-Large Language Model (BERT)
+This project is based on detection of spam,ham and phishing emails using the Bert Model transformer.BERT, which stands for “Bidirectional Encoder Representations from Transformers,” is a state-of-the-art natural language processing (NLP) model developed by Google. BERT is designed to understand the context of a given text by analyzing the relationships between the words in a sentence, rather than just the individual words themselves.
 
 The important feature of BERT is its ability to perform “bidirectional” analysis, meaning that it takes into account the context both to the left and to the right of a given wordThis allows BERT to better understand the meaning of a word in a given sentence, as it can analyze the words that come before and after it.
 
